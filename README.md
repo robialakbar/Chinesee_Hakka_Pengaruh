@@ -3,3 +3,4 @@
 # Nama Barang    : 1.  Tailing,  Sakan, 
 # Nama Makanan   : 1.  Bakmi, Bakpau, Bakpia, Bakso, Mie Ayam, Lakso, Bihun, Kwetiau, Jongkong, Pempek, Otak2, Siomay, tekwan, thai Pusuy, Hak Lofan/Martabak, Rusip, Cincau, Dawet, tahu/Tofu
 # Kata Kerja    :  1.  Muket, Ngeliyau
+toko, gratis,pabrik, kantor, handuk, korting 
